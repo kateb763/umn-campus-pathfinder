@@ -28,7 +28,8 @@ A web-based **pathfinding visualizer** showcasing multiple graph search algorith
 
 ## 📸 Screenshot
 
-![Visualizer Screenshot](pathfinding_visualizer.png)  
+<img width="1121" height="674" alt="pathfinding_visualizer" src="https://github.com/user-attachments/assets/c5a94d99-1c2d-4167-a5ce-32d5fa6df34c" />
+
 *Example visualization*
 
 ---
