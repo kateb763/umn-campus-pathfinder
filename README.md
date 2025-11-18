@@ -39,3 +39,19 @@ A web-based **pathfinding visualizer** showcasing multiple graph search algorith
 ```bash
 git clone https://github.com/kateb763/pathfinding-visualizer.git
 cd pathfinding-visualizer
+
+# (Optional) Create and activate a virtual environment
+python -m venv venv
+source venv/bin/activate    # Mac/Linux
+venv\Scripts\activate       # Windows
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+python app.py
+
+# Open your browser at:
+http://localhost:5000/
+
+
